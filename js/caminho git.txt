@@ -1,0 +1,12 @@
+git init --- iniciando o git local - executamos 1 vez
+git add . = adiciona todos os arquivos da pasta
+git commit -m "mensagem q quiser" = comitar as alterações
+
+git remote add origin URL - executamos 1 vez
+
+dps que tiver  la, conforme for alterando é só usar os seguintes c
+comandos para atualizar.
+
+git add .
+git commit -m "mensagem da alterando"
+git push origin master
